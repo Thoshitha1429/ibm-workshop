@@ -1,15 +1,28 @@
-package ibm.com.array;
-
+package ibm.com
+class Eye{
+	public float power;
+	public String color;
+}
+class Human{
+	public HumanEye leftEye;
+	public HumanEye rightEye;
+	public Human() {
+		leftEye = new HumanEye();
+		rightEye = new HumanEye();
+	}
+	static class HumanEye extends Eye{
+		static int value;
+	}
+}
+class Man extends Human{
+	
+}
 public class Application
 {
 	public static void main( String[] args )
 	{
-//		int nums[] = {2,3,4,5,6};/
-		int nums[];
-		nums = new int[5];
 		
-		for(int values:nums) {
-			System.out.println(values);
-		}
+		Human.HumanEye.value = 9;
+		System.out.println(Human.HumanEye.value);
 	}
 }

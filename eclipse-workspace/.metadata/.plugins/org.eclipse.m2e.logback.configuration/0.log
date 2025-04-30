@@ -504,3 +504,22 @@
 2025-04-29 22:22:57,657 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2025-04-29 22:22:57,659 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-04-29 22:22:57,659 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\innerclass\src\test\resources
+2025-04-29 22:24:47,649 [Worker-49: Launching Application (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-29 22:24:47,650 [Worker-49: Launching Application (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 22:24:47,654 [Worker-49: Launching Application (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-29 22:24:47,654 [Worker-49: Launching Application (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\innerclass\src\test\resources
+2025-04-29 22:49:55,720 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-29 22:49:55,722 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-29 22:49:55,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-29 22:49:55,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\array\src\test\resources
+2025-04-30 09:03:27,912 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-30 09:35:24,253 [Worker-40: Creating quickstart-java8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Thoshitha\eclipse-workspace\enums\pom.xml
+2025-04-30 09:35:31,720 [Worker-40: Creating quickstart-java8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ibm.com:enums:0.0.1-SNAPSHOT @ C:\Thoshitha\eclipse-workspace\enums\pom.xml.
+2025-04-30 09:35:33,511 [Worker-40: Creating quickstart-java8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enums/src/main/java
+2025-04-30 09:35:33,512 [Worker-40: Creating quickstart-java8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /enums/src/main/resources
+2025-04-30 09:35:33,524 [Worker-40: Creating quickstart-java8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /enums/src/test/java
+2025-04-30 09:35:33,675 [Worker-40: Creating quickstart-java8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2025-04-30 09:35:34,544 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 09:35:34,548 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 09:35:34,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 09:35:34,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources

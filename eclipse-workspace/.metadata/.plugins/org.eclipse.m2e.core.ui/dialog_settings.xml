@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Thoshitha\eclipse-workspace\array\src\main\java\ibm\com\array\Application.java"/>
+			<item value="C:\Thoshitha\eclipse-workspace\multidimentionalarray\src\main\java\ibm\com\multidimentionalarray\Application.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -13,6 +15,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -24,10 +27,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ibm.com.innerclass"/>
+			<item value="ibm.com.array"/>
+			<item value="ibm.com.multidimentionalarray"/>
 		</list>
 		<list key="groupId">
+			<item value="ibm.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="innerclass"/>
+			<item value="array"/>
+			<item value="multidimentionalarray"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
