@@ -523,3 +523,23 @@
 2025-04-30 09:35:34,548 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2025-04-30 09:35:34,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-04-30 09:35:34,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
+2025-04-30 09:57:39,473 [Worker-43: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 09:57:39,501 [Worker-43: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 09:57:39,502 [Worker-43: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 09:57:39,503 [Worker-43: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
+2025-04-30 10:06:09,625 [Worker-50: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:06:09,626 [Worker-50: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:06:09,626 [Worker-50: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:06:09,627 [Worker-50: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
+2025-04-30 10:07:06,258 [Worker-52: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:07:06,259 [Worker-52: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:07:06,259 [Worker-52: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:07:06,260 [Worker-52: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
+2025-04-30 10:10:54,266 [Worker-54: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:54,267 [Worker-54: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:10:54,269 [Worker-54: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:10:54,269 [Worker-54: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
+2025-04-30 10:16:28,986 [Worker-57: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:16:28,987 [Worker-57: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-30 10:16:28,989 [Worker-57: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-30 10:16:28,989 [Worker-57: Launching Application (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thoshitha\eclipse-workspace\enums\src\test\resources
