@@ -1,40 +1,32 @@
 package ibm.com.objects;
 
-// Define a class called Car
-class Car {
-    // Attributes
-    String brand;
-    int year;
-
-    // Constructor
-    Car(String brand, int year) {
-        this.brand = brand;
-        this.year = year;
-    }
-
-    // Method to display car info
-    void displayInfo() {
-        System.out.println("Brand: " + brand + ", Year: " + year);
-    }
-
-    // Method to simulate driving
-    void drive() {
-        System.out.println(brand + " is driving!");
-    }
+class Point{
+	public int x, y;
+	Point(int x, int y){
+		this.x= x;
+		this.y = y;
+	}
+	@Override
+	public boolean equals(Object target) {
+		if(target instanceof Point) {
+			Point point2 = (Point) target;
+			if(this.x==point2.x && this.y==point2.y) {
+				return true;
+			}
+		}
+		
+		return false;
+		
+	}
+	 
 }
-
-// Main class with the main method
-public class Application{
-    public static void main(String[] args) {
-        // Creating objects of the Car class
-        Car car1 = new Car("Toyota", 2020);
-        Car car2 = new Car("Honda", 2022);
-
-        // Executing object methods
-        car1.displayInfo();
-        car1.drive();
-
-        car2.displayInfo();
-        car2.drive();
-    }
+ 
+public class Application
+{
+	public static void main( String[] args )
+	{
+		Point point1 = new Point(2, 4);
+		Point point2 = new Point(2,4);
+		System.out.println(point1.equals(point2));
+	}
 }
