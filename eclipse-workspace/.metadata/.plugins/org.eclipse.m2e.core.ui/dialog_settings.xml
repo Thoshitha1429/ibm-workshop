@@ -29,6 +29,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ibm.com.threads"/>
+			<item value="ibm.com"/>
+			<item value="ibm.com.abtraction"/>
 			<item value="ibm.com.exceptions"/>
 			<item value="ibm.com.oops"/>
 			<item value="ibm.com.enums"/>
@@ -40,6 +43,8 @@
 			<item value="ibm.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="threads"/>
+			<item value="abtraction"/>
 			<item value="exceptions"/>
 			<item value="oops"/>
 			<item value="enums"/>
